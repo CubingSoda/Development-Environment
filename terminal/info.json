@@ -1,5 +1,6 @@
 {
-  "terminal": "gnome-terminal",
+  "shell": "zsh",
+  "lib": ["oh-my-zsh", "powerlevel10k", "zsh-autosuggestions"],
   "background-color": "#282a36f",
   "wm-theme": "WhiteSur-dark",
   "theme": "WhiteSur-dark"

@@ -1,0 +1,9 @@
+{
+  "theme": "One Dark Pro",
+  "extentions": [
+    "One Dark Pro",
+    "Prettier Code Foramtter",
+    "vscode-icons",
+    "Live Server"
+  ]
+}
