@@ -1,7 +1,8 @@
 {
   "shell": "zsh",
   "lib": ["oh-my-zsh", "powerlevel10k", "zsh-autosuggestions"],
-  "background-color": "#282a36f",
-  "wm-theme": "WhiteSur-dark",
-  "theme": "WhiteSur-dark"
+  "background-color": "#272A34",
+  "wm-theme": "Orchis-dark",
+  "theme": "Orchis-dark",
+  "icons": "Papirus-Dark-Maia"
 }
