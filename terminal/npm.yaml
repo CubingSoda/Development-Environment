@@ -1,3 +1,2 @@
-{
-  "global-lib": ["yarn"]
-}
+global lib:
+  - yarn
