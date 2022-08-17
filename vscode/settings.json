@@ -1,10 +1,17 @@
 {
-  "security.workspace.trust.untrustedFiles": "open",
-  "workbench.colorTheme": "One Dark Pro Darker",
-  "editor.formatOnSave": true,
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Ayu Mirage Bordered",
   "explorer.confirmDelete": false,
+  "workbench.iconTheme": "vscode-icons",
+  "editor.fontFamily": "'Fira Code'",
+  "editor.fontSize": 16,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
   "explorer.confirmDragAndDrop": false,
-  "editor.mouseWheelZoom": true
+  "editor.formatOnSave": true,
+
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "editor.mouseWheelZoom": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "window.zoomLevel": 1
 }

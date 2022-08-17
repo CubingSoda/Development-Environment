@@ -1,0 +1,8 @@
+theme: Ayu Mirage Bordered
+extensions:
+  - One Dark Pro
+  - Prettier Code Formatter
+  - vscode-icons
+  - Live Server
+  - Auto Rename Tag
+  - Spelling Checker

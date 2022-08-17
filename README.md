@@ -1,3 +1,3 @@
-# Development Environment
+# Dotfiles
 
-Files for my development environment.
+Dotfiles, and other config files.

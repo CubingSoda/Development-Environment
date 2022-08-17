@@ -1,0 +1,6 @@
+[user]
+	signingkey = XXXXXXXXX
+	name = CubingSoda
+	email = 82660497+CubingSoda@users.noreply.github.com
+[commit]
+	gpgsign = true
