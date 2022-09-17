@@ -4,5 +4,6 @@ lib:
   - oh-my-zsh
   - powerlevel10k
   - zsh-autosuggestions
+  - exa
 
-background-color: 181c29
+background-color: 2e333f

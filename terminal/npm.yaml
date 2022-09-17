@@ -1,2 +1,5 @@
 global lib:
   - yarn
+  - typescript
+  - firebase-tools
+  - expo-cli

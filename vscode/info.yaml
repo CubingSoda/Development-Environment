@@ -1,6 +1,5 @@
-theme: Ayu Mirage Bordered
+theme: Ayu Mirage
 extensions:
-  - One Dark Pro
   - Prettier Code Formatter
   - vscode-icons
   - Live Server

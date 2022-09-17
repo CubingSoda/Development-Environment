@@ -1,6 +1,6 @@
 {
-  "workbench.colorTheme": "Ayu Mirage Bordered",
   "explorer.confirmDelete": false,
+  "workbench.colorTheme": "Ayu Mirage",
   "workbench.iconTheme": "vscode-icons",
   "editor.fontFamily": "'Fira Code'",
   "editor.fontSize": 16,
@@ -13,5 +13,8 @@
   },
   "editor.mouseWheelZoom": true,
   "security.workspace.trust.untrustedFiles": "open",
-  "window.zoomLevel": 1
+  "editor.inlineSuggest.enabled": true,
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.cursorStyle": "line"
 }
