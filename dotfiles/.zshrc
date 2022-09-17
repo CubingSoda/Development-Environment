@@ -19,5 +19,3 @@ alias clear="printf '\33c\e[3J'"
 
 export PATH=$PATH:/Users/cubingsoda/Library/Python/3.8/bin
 export PATH="$PATH:$(yarn global bin)"
-
-printf '\33c\e[3J'
